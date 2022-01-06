@@ -1,5 +1,0 @@
-## Comandos Git Bash
-
-Ctrl+L = limpar 
-md = ação navegar
-status = Exibir status/informações da pasta atual 

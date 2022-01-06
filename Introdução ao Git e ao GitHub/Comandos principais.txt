@@ -1,0 +1,11 @@
+## Comandos Git Bash
+
+pwd = mostra o local atual no terminal gitbash
+ls = faz a listagem de pastas e arquivos no local
+Ctrl+L = limpar 
+cd = altera o diretório
+cd.. = volta ao diretório pai
+mkdir = criar um diretótio
+status = Exibir status/informações da pasta atual 
+git commit -m = commitar
+git push origin main = enviar os commits local para nuvem
