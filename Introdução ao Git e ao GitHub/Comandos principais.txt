@@ -7,5 +7,6 @@ cd = altera o diretório
 cd.. = volta ao diretório pai
 mkdir = criar um diretótio
 status = Exibir status/informações da pasta atual 
+git add . =
 git commit -m = commitar
 git push origin main = enviar os commits local para nuvem
