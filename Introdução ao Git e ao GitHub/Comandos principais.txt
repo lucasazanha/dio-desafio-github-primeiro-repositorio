@@ -1,4 +1,4 @@
-## Comandos Git Bash
+## Alguns comandos aprendidos no Git Bash
 
 pwd = mostra o local atual no terminal gitbash
 ls = faz a listagem de pastas e arquivos no local
